@@ -1,0 +1,4284 @@
+{
+  "weeks": [
+    {
+      "week": 0,
+      "level": 2,
+      "days": [
+        {
+          "day": 0,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho con mancuernas en banco inclinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/JhbVfhX2DQ-72ufSAc4F6.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Vuelos con polea",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/hAJ3zU7XiY-hNpud3vFkf.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Fondos en paralela",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/6PPwb1j8Pe-zdb6X4WLrd.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Copa con dos manos sentado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/tAsBnZh178-YRhUzTkzqw.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Elevaciones laterales a una mano con polea baja",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/oJCVxMvTHC-NkjtEWnwPh.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Encogimientos de pie con máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ZntBeupvbb-9oZG-K0l96.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Lat pull down en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/quTRZhV3HY-juw40B4dYr.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo de pie en polea con barra agarre cerrado prono",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/1Ml1c43P5X-vkuefF-z8h.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps con barra Z de pie",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/mNTonI96VL-pS2SLfVAve.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps predicador a una mano con mancuerna",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/3yRsYlT690-_A4w03mLBW.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de hombro con barra sentado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/0yj1LuIzss-dSVylEwVSA.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "V-up",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/DlcdJCi7xq-hMG5DdO89P.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Desplantes en máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/QO6tvP1sNS-m9D1evsegL.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg extension con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/uX1YVv5s1E-Tuefndqo3U.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Frog thrust en máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/SDAeYZUe22-psqfrHtO84.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hyper con mancuerna",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/eFuXw8OkIG-cHGk5H8PNR.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Peso muerto con piernas rígidas con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/K432EPo8nT-ziUbQa0Pit.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Puntas sentado en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/LJih6YfuoG-gWlJBiDpEs.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho en máquina smith en banco inclinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/9MMDbo3bdR-EfpJC0iaNw.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Pull ups",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/Uj99HwuUkJ-viT7Y2thjW.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de hombro con mancuernas sentado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/I7KlOZicRI-hw7yffaaAx.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Fondos en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/NW4VX2CpZR-KvHm_DzLL-.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 60
+                },
+                {
+                  "name": "Curl de bíceps en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/hi1OTYlzAG--h1bhsHd3z.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Abdominales en banco declinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/SwmPDxbnOG-WR0a7ob-BN.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Desplantes en máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/QO6tvP1sNS-m9D1evsegL.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg extension con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/uX1YVv5s1E-Tuefndqo3U.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Frog thrust en máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/SDAeYZUe22-psqfrHtO84.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hyper con mancuerna",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/eFuXw8OkIG-cHGk5H8PNR.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Peso muerto con piernas rígidas con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/K432EPo8nT-ziUbQa0Pit.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Puntas sentado en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/LJih6YfuoG-gWlJBiDpEs.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "level": 2,
+      "days": [
+        {
+          "day": 0,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho con mancuernas en banco horizontal",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ONVs5f2XAe-3ud85eSTF9.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Cristos en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/iQttLMkenP-QwNGEIZi7f.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Extensión de tríceps con polea elevada con barra z",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ZdKwjEIi9k-L_-hBloezL.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press francés en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/sM6uPoYLCw-2UiM6VsAYR.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Aperturas para hombro posterior en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/femzfHfQPn-z5gCwRSMV8.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Encogimientos de pie con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/vabpzCDFqq-XynE-caVuy.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/5L08Q5U4RG-bBdXyvh1AU.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Lat pulldown",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/llX8OrPHZb-Fmh7AeCSY6.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps predicador con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/3RUUCSEAAG-rIzN0X8VxA.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps sentado con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/KzyLeLYJ8A-_kCbCXMPki.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de hombro en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/n6QJxgJ41h-Dm78xSuLFq.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Puente lateral dinámico",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ZP2PyZStaH-PcLGc0TFnt.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/EsgWg3MIQl-s4L2oJ46ih.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Desplantes pivote con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/0t7RglcNle-oV4VPGsmR2.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla búlgara con énfasis en glúteo con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/xawgpGgeN3--ozld1hurb.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Peso muerto convencional con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/hdAE8Exxt8-miRdD9UAZU.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hiperextensiones",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/WDrlorOwvq-nK1Mrd6qTO.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Puntas tipo burro",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/RFiATwUuXd-c4M-71FrfR.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho en máquina smith en banco horizontal",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/BhHGkzEq2H-aFGeSMHv1q.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo en polea, agarre cerrado y prono",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/0GQ7bEDosq-UAYWPVRfVa.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Elevaciones laterales con mancuernas de pie",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/nUXwLlhg45-PB-MeJAVyE.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press francés con mancuernas en banco inclinado ",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ULlSmsDPHl-dxyeG7zRGX.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 60
+                },
+                {
+                  "name": "Curl de bíceps en banco inclinado con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/OuPoTS7y2g-otDCNz-Zlw.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Crunch lateral alterno",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/TqQCyUS1OE-q37KXPvGsX.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/EsgWg3MIQl-s4L2oJ46ih.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Desplantes pivote con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/0t7RglcNle-oV4VPGsmR2.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla búlgara con énfasis en glúteo con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/xawgpGgeN3--ozld1hurb.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Peso muerto convencional con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/hdAE8Exxt8-miRdD9UAZU.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hiperextensiones",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/WDrlorOwvq-nK1Mrd6qTO.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 3,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Puntas tipo burro",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/RFiATwUuXd-c4M-71FrfR.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 3,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "level": 2,
+      "days": [
+        {
+          "day": 0,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho con mancuernas en banco declinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/1Q4HB0X5iT-ZqOzC9g_nH.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Vuelos con polea baja",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/QU4NYh9Zj1-rb-EE9zo7I.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Extensión de tríceps con polea elevada con cuerda",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/6RCP2wOCPR-Zu6M4Eyr0R.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho cerrado con mancuernas en banco horizontal",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/7b84s1ipi2-dgoSu2DEF1.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Elevaciones laterales con polea baja",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/Ufz4oZR3wf-KMVPz7cy61.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Encogimientos en banco inclinado con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/rEYTJQYdIv-fOjBhKH3_k.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Pull ups",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/Uj99HwuUkJ-viT7Y2thjW.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo con barra T acostado con agarre cerrado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/i4Aax3kxNo-maeHGO5272.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps con barra Z de pie",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/mNTonI96VL-pS2SLfVAve.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps martillo sentado con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/S8k8h6mow2-UbG06ji5Yz.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de hombro con mancuernas sentado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/I7KlOZicRI-hw7yffaaAx.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Elevación de piernas vertical",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/K7IKgaWHZx-pZwhQ3DrFt.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla frontal en máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/yf1M2BL8Nh-r6uFacftAF.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Desplantes caminando con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ugRODLUgzM-QTbEIGREFl.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hip thrust con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ovMHkZ20Oi-5xZd7JavMD.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Patada con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/OLsWi0Jv7Z-me778XQDfq.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg curl sentado con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/3vJQU76Sp0-n2U1EziqHL.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Puntas en prensa",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/jMw4NbmaEP-xiWuywNSnZ.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho en máquina smith en banco declinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/hoPKnEShxu-V_cL8NS44R.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Chin Ups agarre neutro",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/0YCgw1Td9x-95l54UcSz6.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de hombro en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/n6QJxgJ41h-Dm78xSuLFq.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Fondos en dos bancos",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/dEU5P1BTcu--52n0wR8Ro.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 60
+                },
+                {
+                  "name": "Curl de bíceps predicador con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/3RUUCSEAAG-rIzN0X8VxA.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Levantamiento de piernas colgado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/PIt5j6EsFX-7sEmjPPn0q.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla frontal en máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/yf1M2BL8Nh-r6uFacftAF.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Desplantes caminando con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ugRODLUgzM-QTbEIGREFl.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hip thrust con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ovMHkZ20Oi-5xZd7JavMD.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Patada con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/OLsWi0Jv7Z-me778XQDfq.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg curl sentado con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/3vJQU76Sp0-n2U1EziqHL.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Puntas en prensa",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/jMw4NbmaEP-xiWuywNSnZ.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "level": 2,
+      "days": [
+        {
+          "day": 0,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho en máquina smith en banco inclinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/9MMDbo3bdR-EfpJC0iaNw.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Vuelos con polea elevada",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/w8ilTaPrJH-fs6SnyyGHk.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press francés con mancuernas en banco inclinado ",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ULlSmsDPHl-dxyeG7zRGX.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Copa a una mano sentado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/CbtnoM4L0I-NqvHK7fYXu.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Aperturas para hombro posterior en banco inclinado con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/saj97a4SQR-YtIn2zTaVz.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Encogimientos de pie con máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ZntBeupvbb-9oZG-K0l96.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo invertido",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/VjRuqOjCDF-vokiQN1szv.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Lat pull down con barra h",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/DAhda5u4uW-m6Mh3mCNU8.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps predicador con barra z",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/N8BMpdYume-MZC2YrZb8h.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de araña con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/K9F4gbrkDh-WGLjn4BQRo.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de hombro con mancuernas de pie",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/H5vPb6kVd6-494scdrAwc.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Elevación de rodillas vertical",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/3GvS8dk2uF-vgmYDtTiSN.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla búlgara con énfasis en cuádriceps",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/AiY2O7XtUO-Nfm_KfHFOq.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla sissy con banco",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/Bd9okfzqUu-hLC74tAQyW.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Peso muerto estilo sumo con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ok53oNMWe6-n2Ahw1B2US.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Abducción de cadera sentado en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/F5vye1fAiH-ZWrvrWJirT.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Peso muerto con piernas rígidas en máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/V9avYA2b5q-B0XsPjcY6v.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Puntas sentado en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/LJih6YfuoG-gWlJBiDpEs.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho con mancuernas en banco inclinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/JhbVfhX2DQ-72ufSAc4F6.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo con barra T acostado con agarre cerrado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/i4Aax3kxNo-maeHGO5272.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Aperturas para hombro posterior en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/femzfHfQPn-z5gCwRSMV8.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press francés con mancuernas en banco horizontal",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/VyiCiqVxX6-cQlnWXPgXh.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 60
+                },
+                {
+                  "name": "Curl de bíceps sentado con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/KzyLeLYJ8A-_kCbCXMPki.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hip hop",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/VOYA75Sluf-zqToiUKzRc.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla búlgara con énfasis en cuádriceps",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/AiY2O7XtUO-Nfm_KfHFOq.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla sissy con banco",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/Bd9okfzqUu-hLC74tAQyW.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Peso muerto estilo sumo con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ok53oNMWe6-n2Ahw1B2US.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Abducción de cadera sentado en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/F5vye1fAiH-ZWrvrWJirT.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Peso muerto con piernas rígidas en máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/V9avYA2b5q-B0XsPjcY6v.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 2,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Puntas sentado en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/LJih6YfuoG-gWlJBiDpEs.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 2,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "level": 2,
+      "days": [
+        {
+          "day": 0,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho en máquina smith en banco horizontal",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/BhHGkzEq2H-aFGeSMHv1q.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Vuelos con mancuernas en banco inclinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/rJ3xLdRTF0-S4eKZj_81o.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press francés con barra z en banco horizontal",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/2IHQgBtaGY-jYNFpZ_RnC.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Patada a una mano con mancuerna",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/iDtGvnIdjM--VqBWKtc4t.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Elevaciones laterales sentado con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/rqPUh6mQG6-1NRu8wTPG7.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Encogimientos de pie con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/vabpzCDFqq-XynE-caVuy.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Lat pull down agarre neutro",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/fiKprAtlZ2-2P5JLixKcY.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo en máquina agarre cerrado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/u6u4JtvLZC-4Z2wtsuHnR.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps en polea baja con cuerda",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/7iB0zeEfrw-tb6r570ZVG.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps a una mano con polea alta",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/UfRGehgmzY-TlW8UM9C6e.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de hombro con barra de pie",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/xusLWkGdDA-xFCJZhkqLt.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Crunch",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/6DgcPpRY9t-P-8zNct71Q.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla en máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/5qUdXUCM41-zDeUvPzFaW.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg extension con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/uX1YVv5s1E-Tuefndqo3U.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Abducción de cadera con polea",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/lcO4WVeOBB-O4HN6sDWXU.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Frog pumps",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ps19fH3h45-Cc2OJAdtPN.mp4",
+                  "repetitions": 0,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg curl acostado con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/UILZzbPouL-79I77vElse.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Costurera",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/p4KAZDpPHq-jzwXXnTvIf.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho con mancuernas en banco horizontal",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ONVs5f2XAe-3ud85eSTF9.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Lat pull down agarre neutro",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/fiKprAtlZ2-2P5JLixKcY.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Elevaciones laterales con mancuernas de pie",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/nUXwLlhg45-PB-MeJAVyE.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Extensión de tríceps sobre cabeza en polea elevada con cuerda",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ETAAiSLE03-JeO4EgC9B7.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 60
+                },
+                {
+                  "name": "Curl de bíceps a una mano con polea alta",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/UfRGehgmzY-TlW8UM9C6e.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Crunch lateral",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/3vXoFtXHYk-gJU1xTPM1n.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla en máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/5qUdXUCM41-zDeUvPzFaW.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg extension con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/uX1YVv5s1E-Tuefndqo3U.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Abducción de cadera con polea",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/lcO4WVeOBB-O4HN6sDWXU.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Frog pumps",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ps19fH3h45-Cc2OJAdtPN.mp4",
+                  "repetitions": 0,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg curl acostado con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/UILZzbPouL-79I77vElse.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Costurera",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/p4KAZDpPHq-jzwXXnTvIf.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "level": 2,
+      "days": [
+        {
+          "day": 0,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho con peso libre en banco inclinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/jSMpENhsrt-rWjejD0P9a.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Vuelos con polea elevada",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/w8ilTaPrJH-fs6SnyyGHk.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press francés con mancuernas en banco inclinado ",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ULlSmsDPHl-dxyeG7zRGX.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Copa a una mano sentado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/CbtnoM4L0I-NqvHK7fYXu.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Aperturas para hombro posterior inclinado en polea baja",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/hruKPB1Z5D-kv6c5Yqoof.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Encogimientos de pie con máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ZntBeupvbb-9oZG-K0l96.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Chin Ups agarre neutro",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/0YCgw1Td9x-95l54UcSz6.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo cerrado en banco inclinado con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/2bzD7ib5d8-Vos88L3Cp-.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps agarre abierto en polea baja con barra z",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/38NmcL9xWz-XkezJqf3fI.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps con mancuernas de pie",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/z87JcrUO7e-zMWMZrk5wx.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de hombro en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/n6QJxgJ41h-Dm78xSuLFq.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Abdominales en L en banco",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/uJHLCNkLV4-uqOgoL8fNi.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hack",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/mMbbwMY7Ne-okPQdyx2Va.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg extension con máquina con una pierna",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/gexh7x5hT4-AEpd6Ub9rL.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hip punch de rodillas en máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/YB43uLGx8b-LcPoR44yAX.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hyper invertido en banca",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/AqpQR93DKU-9iBHVfWKxt.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg curl sentado con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/3vJQU76Sp0-n2U1EziqHL.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Elevaciones de pantorrilla en máquina de pie",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/PbrneXgNVv-Y5--5wOgGH.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho con mancuernas en banco declinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/1Q4HB0X5iT-ZqOzC9g_nH.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo en máquina agarre cerrado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/u6u4JtvLZC-4Z2wtsuHnR.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de hombro con barra sentado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/0yj1LuIzss-dSVylEwVSA.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Extensión de tríceps con polea elevada con barra z",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ZdKwjEIi9k-L_-hBloezL.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 60
+                },
+                {
+                  "name": "Curl de bíceps en polea baja con cuerda",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/7iB0zeEfrw-tb6r570ZVG.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Elevación de rodillas vertical",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/3GvS8dk2uF-vgmYDtTiSN.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hack",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/mMbbwMY7Ne-okPQdyx2Va.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg extension con máquina con una pierna",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/gexh7x5hT4-AEpd6Ub9rL.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hip punch de rodillas en máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/YB43uLGx8b-LcPoR44yAX.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hyper invertido en banca",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/AqpQR93DKU-9iBHVfWKxt.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg curl sentado con máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/3vJQU76Sp0-n2U1EziqHL.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 1,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Elevaciones de pantorrilla en máquina de pie",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/PbrneXgNVv-Y5--5wOgGH.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 1,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "level": 2,
+      "days": [
+        {
+          "day": 0,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho con barra en banco inclinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/Rjo84uopbI-N1atWvtct1.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho con barra en banco horizontal",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/HasUmbijBU-lYma9rOGkG.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press francés con mancuernas en banco horizontal",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/VyiCiqVxX6-cQlnWXPgXh.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 0,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Fondos en dos bancos",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/dEU5P1BTcu--52n0wR8Ro.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 0,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Elevaciones laterales con mancuernas de pie",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/nUXwLlhg45-PB-MeJAVyE.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Encogimientos en banco inclinado con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/rEYTJQYdIv-fOjBhKH3_k.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Lat pulldown agarre abierto",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ZYVzOAgq7A-UCbxctN0WQ.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo con barra T acostado con agarre cerrado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/i4Aax3kxNo-maeHGO5272.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps en máquina",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/hi1OTYlzAG--h1bhsHd3z.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 0,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps predicador a una mano con mancuerna",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/3yRsYlT690-_A4w03mLBW.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 0,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de hombro con barra sentado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/0yj1LuIzss-dSVylEwVSA.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sit up",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/zpzC9VZ2fF-XOoUr093Pm.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 0,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Desplantes caminando con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/hj66TYRnZU-QkipAJbmqX.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Step up con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/Y4oernVu5A-e9BI2ol0B6.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Peso muerto convencional con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/DiNpjC6ywD-tMdnXAQy-_.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Extensión de cadera de pie con máquina con pierna doblada",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ANaolagLec-ti_iOH4YGY.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Peso muerto con piernas rígidas con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/K432EPo8nT-ziUbQa0Pit.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Puntas tipo burro",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/RFiATwUuXd-c4M-71FrfR.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 0,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho con barra en banco horizontal",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/HasUmbijBU-lYma9rOGkG.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo en polea agarre abierto",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/Ntchxub8fq-4UeAot7ukD.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de hombro con mancuernas sentado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/I7KlOZicRI-hw7yffaaAx.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Copa con dos manos sentado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/tAsBnZh178-YRhUzTkzqw.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 0,
+                  "rest": 60
+                },
+                {
+                  "name": "Curl de bíceps con mancuernas sentado con supinación",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/gftrrCdNDa-UXK-rAzbl3.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 0,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Abdominales en banco declinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/SwmPDxbnOG-WR0a7ob-BN.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 0,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Desplantes caminando con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/hj66TYRnZU-QkipAJbmqX.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Step up con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/Y4oernVu5A-e9BI2ol0B6.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Peso muerto convencional con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/DiNpjC6ywD-tMdnXAQy-_.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Extensión de cadera de pie con máquina con pierna doblada",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ANaolagLec-ti_iOH4YGY.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Peso muerto con piernas rígidas con barra",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/K432EPo8nT-ziUbQa0Pit.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 0,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Puntas tipo burro",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/RFiATwUuXd-c4M-71FrfR.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 0,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "level": 2,
+      "days": [
+        {
+          "day": 0,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho con peso libre en banco declinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/HIE5gwRgbt-iHNj1JllQ0.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Vuelos en banco horizontal con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/zxxrUzYXl9-uqKH0Zh1Km.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Extensión de triceps sobre cabeza con barra z sentado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/qrGmugJuUX-8XmpVd68bh.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 5,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Fondos en banco con piernas rectas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/LpEcVn2Qyb-klpOfchq-e.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 5,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo con barra de pie",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/b8CG4edXZY-sCOROl261n.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Encogimientos de pie con máquina smith",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/ZntBeupvbb-9oZG-K0l96.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 1,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo abierto en banco inclinado con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/T6U7VAV9oD-ddD0QfZKDy.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Pull over con mancuerna",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/6HVSMmwXtr-hQGXPqGpmN.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps sentado con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/KzyLeLYJ8A-_kCbCXMPki.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 5,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Curl de bíceps en polea baja a una mano",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/l9Dqwq6Zju-lRCF8ib_T3.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 5,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 60
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de hombro con mancuernas sentado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/I7KlOZicRI-hw7yffaaAx.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Crunch de bicicleta",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/g0rUinMmRn-4WD95aQWQY.mp4",
+                  "repetitions": 16,
+                  "reserve_reps": 5,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Desplantes pivote con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/pDC2qZkXPn-fP-55_ZQ32.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla sissy con banco",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/Bd9okfzqUu-hLC74tAQyW.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hyper",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/NqLNYNIMM2-6mqcN5X4fV.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hip thrust con una pierna",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/QdjeBSpiGN-WUS-Oi6yas.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg curl de pie con polea baja",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/wAv14EEIwR-Yvty4wFzLX.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Costurera",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/p4KAZDpPHq-jzwXXnTvIf.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 5,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho con peso libre en banco inclinado",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/jSMpENhsrt-rWjejD0P9a.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Remo sentado en polea agarre abierto a una mano",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/boIoszsbLy-pwmxfCDruI.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Elevaciones para hombro posterior inclinado a una mano en polea baja",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/m9IudC1kke-4dRGLRb2t9.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Press de pecho cerrado con mancuernas en banco horizontal",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/7b84s1ipi2-dgoSu2DEF1.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 5,
+                  "rest": 60
+                },
+                {
+                  "name": "Curl de bíceps concentrado con mancuerna",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/z2cpuWntNO-nWebRurJms.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 5,
+                  "rest": 60
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sit up",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/zpzC9VZ2fF-XOoUr093Pm.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 5,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "sections": [
+            {
+              "name": "Ciclo 1",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Desplantes pivote con mancuernas",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/pDC2qZkXPn-fP-55_ZQ32.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 1",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 2",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Sentadilla sissy con banco",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/Bd9okfzqUu-hLC74tAQyW.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 2",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 3",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hyper",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/NqLNYNIMM2-6mqcN5X4fV.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 3",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 4",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Hip thrust con una pierna",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/QdjeBSpiGN-WUS-Oi6yas.mp4",
+                  "repetitions": 12,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 4",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 5",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Leg curl de pie con polea baja",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/wAv14EEIwR-Yvty4wFzLX.mp4",
+                  "repetitions": 10,
+                  "reserve_reps": 5,
+                  "rest": 120
+                }
+              ]
+            },
+            {
+              "name": "Descanso 5",
+              "type": "rest",
+              "time": 120
+            },
+            {
+              "name": "Ciclo 6",
+              "type": "cycle",
+              "exercises": [
+                {
+                  "name": "Costurera",
+                  "video_tutorial": "https://d3gfgejixr95u4.cloudfront.net/app/production/exercises/62602b4982a4b6bee3ac99ef/p4KAZDpPHq-jzwXXnTvIf.mp4",
+                  "repetitions": 15,
+                  "reserve_reps": 5,
+                  "rest": 60
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

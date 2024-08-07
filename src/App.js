@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import StartDateSelector from './components/StartDateSelector';
+import RoutineSelector from './components/RoutineSelector';
+
 import app from './firebase';
 import { ref, getDatabase, set, onValue } from "firebase/database";
 
@@ -7,6 +9,8 @@ import './App.css';
 
 function App() {
   const [data, setData] = useState(null);
+  const [selectedRoutine, setSelectedRoutine] = useState('level1');
+
   const [startDate, setStartDate] = useState(() => {
     const storedDate = localStorage.getItem('startDate');
     return storedDate ? new Date(storedDate) : new Date();
@@ -16,54 +20,63 @@ function App() {
   const [currentDay, setCurrentDay] = useState(null);
 
   const dayNames = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"];
+  const routines = ['level1', 'level2', 'level3', 'level4', 'level5', 'level6'];
 
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const db = getDatabase();
-        const dbRef = ref(db, '/');
+ useEffect(() => {
+  const fetchData = async () => {
+    try {
+      const db = getDatabase();
+      const routineRef = ref(db, 'settings/routine');
+      const startDateRef = ref(db, 'settings/startDate');
 
-        // Recuperar la fecha desde Realtime Database
-        onValue(dbRef, (snapshot) => {
-          const dataItem = snapshot.val();
-          if (dataItem) {
-            const storedDate = new Date(dataItem.startDate); // Asegúrate de que dataItem tenga startDate
+      // Leer la rutina seleccionada
+      onValue(routineRef, (snapshot) => {
+        const routine = snapshot.val();
+        if (routine) {
+            
+          setSelectedRoutine(routine);
+        }
+      });
 
-            if (storedDate instanceof Date && !isNaN(storedDate)) {
-              setStartDate(storedDate);
-              localStorage.setItem('startDate', dataItem.startDate);
-            }
-          }
-        });
-
-        // Recuperar datos de entrenamiento
-        const response = await fetch('/transformed.json');
-        const jsonData = await response.json();
-        setData(jsonData);
-
-        // Calcular la semana y el día actual
-        const today = new Date();
-        const start = new Date(startDate);
-        const daysSinceStart = Math.floor((today - start) / (1000 * 60 * 60 * 24));
-        const weekNumber = Math.floor(daysSinceStart / 7);
-        const dayOfWeek = daysSinceStart % 7;
-
-        // Encontrar la semana y el día correspondiente en los datos
-        if (jsonData) {
-          const week = jsonData.weeks[weekNumber];
-          if (week) {
-            setCurrentWeek(week);
-            const day = week.days.find(d => d.day === dayOfWeek);
-            setCurrentDay(day || null);
+      // Leer la fecha desde Realtime Database
+      onValue(startDateRef, (snapshot) => {
+        const dataItem = snapshot.val();
+        if (dataItem) {
+          const storedDate = new Date(dataItem.startDate);
+          if (storedDate instanceof Date && !isNaN(storedDate)) {
+            setStartDate(storedDate);
+            localStorage.setItem('startDate', dataItem.startDate);
           }
         }
-      } catch (error) {
-        console.error('Error loading data:', error);
-      }
-    };
+      });
 
-    fetchData();
-  }, [startDate]);
+      // Leer los datos de entrenamiento para la rutina seleccionada
+      const response = await fetch(`/${selectedRoutine}.json`);
+      const jsonData = await response.json();
+      setData(jsonData);
+
+      // Calcular la semana y el día actual
+      const today = new Date();
+      const start = new Date(startDate);
+      const daysSinceStart = Math.floor((today - start) / (1000 * 60 * 60 * 24));
+      const weekNumber = Math.floor(daysSinceStart / 7);
+      const dayOfWeek = daysSinceStart % 7;
+
+      if (jsonData) {
+        const week = jsonData.weeks[weekNumber];
+        if (week) {
+          setCurrentWeek(week);
+          const day = week.days.find(d => d.day === dayOfWeek);
+          setCurrentDay(day || null);
+        }
+      }
+    } catch (error) {
+      console.error('Error loading data:', error);
+    }
+  };
+
+  fetchData();
+}, [startDate, selectedRoutine]);
 
   const handleDateChange = (date) => {
     if (date instanceof Date && !isNaN(date)) {
@@ -79,6 +92,17 @@ function App() {
         .catch((error) => console.error("Error actualizando Firebase:", error));
     }
   };
+    
+const handleRoutineChange = (routine) => {
+  setSelectedRoutine(routine);
+
+  // Actualizar la rutina en Firebase
+  const db = getDatabase();
+  const routineRef = ref(db, 'settings/routine');
+  set(routineRef, routine)
+    .then(() => console.log("Rutina actualizada en Firebase"))
+    .catch((error) => console.error("Error actualizando Firebase:", error));
+};
 
   const calculateWeeks = (weeks) => {
     // Implementa la lógica para ajustar las semanas si es necesario
@@ -96,6 +120,8 @@ function App() {
       <div className="mb-4">
         <StartDateSelector startDate={startDate} onDateChange={handleDateChange} />
       </div>
+      <RoutineSelector routines={routines} onRoutineChange={handleRoutineChange} selectedRoutine={selectedRoutine}/>
+
       <div className="space-y-4">
         {adjustedWeeks.map((week, weekIndex) => (
           <details key={weekIndex} open={currentWeek && currentWeek.week === week.week} className="p-4 border rounded-lg bg-white shadow">

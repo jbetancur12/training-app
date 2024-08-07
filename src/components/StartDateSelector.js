@@ -25,7 +25,7 @@ function StartDateSelector({ startDate, onDateChange }) {
         />
       </div>
       <div className="text-gray-700">
-        <strong>Fecha seleccionada: </strong>{formattedDate}
+        <strong>Fecha de inicio: </strong>{formattedDate}
       </div>
     </div>
   );
