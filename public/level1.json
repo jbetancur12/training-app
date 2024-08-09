@@ -10,6 +10,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Press de pecho con barra en banco inclinado",
@@ -28,6 +29,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Cristos en máquina",
@@ -46,6 +48,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Patada a una mano con mancuerna",
@@ -64,6 +67,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Extensión de tríceps con polea elevada con cuerda",
@@ -82,6 +86,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de hombro en máquina",
@@ -100,6 +105,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Encogimientos en banco inclinado con mancuernas",
@@ -118,6 +124,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Lat pulldown",
@@ -136,6 +143,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Remo en polea agarre neutro",
@@ -154,6 +162,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Curl de bíceps en máquina",
@@ -172,6 +181,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Curl de araña con barra z",
@@ -190,6 +200,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de hombro con barra de pie",
@@ -208,6 +219,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Crunch lateral alterno",
@@ -226,6 +238,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Desplantes caminando con barra",
@@ -244,6 +257,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Sentadilla frontal en máquina smith",
@@ -262,6 +276,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Hip thrust en máquina smith",
@@ -280,6 +295,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Hyper",
@@ -298,6 +314,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Leg curl de pie con máquina",
@@ -316,6 +333,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Puntas tipo burro",
@@ -334,6 +352,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Press de pecho con mancuernas en banco declinado",
@@ -352,6 +371,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Chin ups",
@@ -370,6 +390,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Elevaciones laterales sentado con mancuernas",
@@ -388,6 +409,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Press francés con barra z en banco horizontal",
@@ -413,6 +435,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Elevación de piernas vertical",
@@ -431,6 +454,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Desplantes caminando con barra",
@@ -449,6 +473,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Sentadilla frontal en máquina smith",
@@ -467,6 +492,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Hip thrust en máquina smith",
@@ -485,6 +511,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Hyper",
@@ -503,6 +530,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Leg curl de pie con máquina",
@@ -521,6 +549,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Puntas tipo burro",
@@ -545,6 +574,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Press de pecho con peso libre en banco horizontal",
@@ -563,6 +593,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Press de pecho en máquina smith en banco declinado",
@@ -581,6 +612,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Patada a una mano con mancuerna",
@@ -599,6 +631,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Press de pecho cerrado con mancuernas en banco horizontal",
@@ -617,6 +650,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de hombro con barra de pie",
@@ -635,6 +669,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Encogimientos en banco inclinado con mancuernas",
@@ -653,6 +688,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Lat pulldown agarre abierto",
@@ -671,6 +707,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Remo en polea, agarre cerrado y prono",
@@ -689,6 +726,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Curl de bíceps con polea alta",
@@ -707,6 +745,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Curl de bíceps agarre cerrado en polea baja con barra z",
@@ -725,6 +764,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Aperturas para hombro posterior en banco inclinado con mancuernas",
@@ -743,6 +783,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Abdominales en L en banco",
@@ -761,6 +802,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Sentadilla búlgara con énfasis en cuádriceps con mancuernas",
@@ -779,6 +821,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Sentadilla en máquina smith",
@@ -797,6 +840,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Hip thrust con una sola pierna en máquina smith",
@@ -815,6 +859,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Frog pumps",
@@ -833,6 +878,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Peso muerto con piernas rígidas en máquina smith",
@@ -851,6 +897,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Elevación de talones sentado libre",
@@ -869,6 +916,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Press de pecho con barra en banco inclinado",
@@ -887,6 +935,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Remo en máquina agarre abierto",
@@ -905,6 +954,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Elevaciones para hombro posterior inclinado a una mano en polea baja",
@@ -923,6 +973,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Copa a una mano sentado",
@@ -948,6 +999,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Elevación de piernas vertical",
@@ -966,6 +1018,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Sentadilla búlgara con énfasis en cuádriceps con mancuernas",
@@ -984,6 +1037,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Sentadilla en máquina smith",
@@ -1002,6 +1056,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Hip thrust con una sola pierna en máquina smith",
@@ -1020,6 +1075,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Frog pumps",
@@ -1038,6 +1094,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Peso muerto con piernas rígidas en máquina smith",
@@ -1056,6 +1113,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Elevación de talones sentado libre",
@@ -1080,6 +1138,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de pecho en máquina smith en banco inclinado",
@@ -1098,6 +1157,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de pecho con mancuernas en banco horizontal",
@@ -1116,6 +1176,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Press francés con mancuernas en banco inclinado ",
@@ -1134,6 +1195,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Copa a una mano sentado",
@@ -1152,6 +1214,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de hombro con barra sentado",
@@ -1170,6 +1233,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Encogimientos en banco inclinado con mancuernas",
@@ -1188,6 +1252,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Remo con barra T acostado con agarre abierto",
@@ -1206,6 +1271,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Lat pull down agarre neutro",
@@ -1224,6 +1290,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Curl de bíceps predicador a una mano con mancuerna",
@@ -1242,6 +1309,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Curl de bíceps en polea baja con cuerda",
@@ -1260,6 +1328,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Elevaciones laterales sentado con mancuernas",
@@ -1278,6 +1347,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Sit up",
@@ -1296,6 +1366,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Desplantes estáticos en máquina smith",
@@ -1314,6 +1385,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Hack",
@@ -1332,6 +1404,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Hyper con mancuerna",
@@ -1350,6 +1423,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Abducción de cadera de pie con máquina",
@@ -1368,6 +1442,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Leg curl acostado con máquina",
@@ -1386,6 +1461,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Puntas en prensa",
@@ -1404,6 +1480,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de pecho con barra en banco declinado",
@@ -1422,6 +1499,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Remo con barra",
@@ -1440,6 +1518,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de hombro con mancuernas sentado",
@@ -1458,6 +1537,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Fondos en paralela",
@@ -1483,6 +1563,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Crunch de bicicleta",
@@ -1501,6 +1582,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Desplantes estáticos en máquina smith",
@@ -1519,6 +1601,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Hack",
@@ -1537,6 +1620,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Hyper con mancuerna",
@@ -1555,6 +1639,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Abducción de cadera de pie con máquina",
@@ -1573,6 +1658,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Leg curl acostado con máquina",
@@ -1591,6 +1677,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Puntas en prensa",
@@ -1615,6 +1702,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de pecho con mancuernas en banco inclinado",
@@ -1633,6 +1721,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de pecho con peso libre en banco horizontal",
@@ -1651,6 +1740,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Extensión de triceps sobre cabeza con barra z sentado",
@@ -1669,6 +1759,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Press francés en máquina",
@@ -1687,6 +1778,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de hombro en máquina",
@@ -1705,6 +1797,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Encogimientos en banco inclinado con mancuernas",
@@ -1723,6 +1816,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Lat pull down en máquina",
@@ -1741,6 +1835,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Remo con mancuerna a una mano",
@@ -1759,6 +1854,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Curl de bíceps agarre cerrado en polea baja con barra z",
@@ -1777,6 +1873,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Curl de bíceps en banco inclinado con mancuernas",
@@ -1795,6 +1892,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Elevaciones laterales sentado con mancuernas",
@@ -1813,6 +1911,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Elevaciones de rodillas sentado",
@@ -1831,6 +1930,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Sentadilla búlgara con énfasis en cuádriceps con mancuernas",
@@ -1849,6 +1949,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Leg extension con máquina",
@@ -1867,6 +1968,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Peso muerto estilo sumo con barra",
@@ -1885,6 +1987,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Patada con máquina",
@@ -1903,6 +2006,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Leg curl en máquina de rodillas",
@@ -1921,6 +2025,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Puntas en prensa con un sólo pie",
@@ -1939,6 +2044,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de pecho en máquina smith en banco inclinado",
@@ -1957,6 +2063,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Pull ups",
@@ -1975,6 +2082,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Elevaciones laterales sentado con mancuernas",
@@ -1993,6 +2101,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Patada de tríceps con mancuernas con ambas manos",
@@ -2018,6 +2127,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Elevación de piernas vertical",
@@ -2036,6 +2146,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Sentadilla búlgara con énfasis en cuádriceps con mancuernas",
@@ -2054,6 +2165,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Leg extension con máquina",
@@ -2072,6 +2184,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Peso muerto estilo sumo con barra",
@@ -2090,6 +2203,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Patada con máquina",
@@ -2108,6 +2222,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Leg curl en máquina de rodillas",
@@ -2126,6 +2241,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Puntas en prensa con un sólo pie",
@@ -2150,6 +2266,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Press de pecho con máquina en banco inclinado",
@@ -2168,6 +2285,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Vuelos con polea",
@@ -2186,6 +2304,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Extensión de tríceps sobre cabeza en polea elevada con cuerda",
@@ -2204,6 +2323,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Press francés con mancuernas en banco horizontal",
@@ -2222,6 +2342,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Elevaciones para hombro posterior con mancuernas de pie",
@@ -2240,6 +2361,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Encogimientos en banco inclinado con mancuernas",
@@ -2258,6 +2380,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Pull ups",
@@ -2276,6 +2399,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Remo sentado en polea agarre abierto a una mano",
@@ -2294,6 +2418,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Curl de bíceps sentado con mancuernas",
@@ -2312,6 +2437,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Curl de bíceps concentrado con mancuerna",
@@ -2330,6 +2456,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Press de hombro con barra sentado",
@@ -2348,6 +2475,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "V-up",
@@ -2366,6 +2494,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Step up con barra",
@@ -2384,6 +2513,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Desplantes caminando",
@@ -2402,6 +2532,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Hip punch de rodillas en máquina smith",
@@ -2420,6 +2551,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Peso muerto con una pierna con mancuernas",
@@ -2438,6 +2570,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Leg curl de pie con máquina",
@@ -2456,6 +2589,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Costurera",
@@ -2474,6 +2608,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de pecho con peso libre en banco horizontal",
@@ -2492,6 +2627,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Remo con barra",
@@ -2510,6 +2646,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Elevaciones laterales con polea baja",
@@ -2528,6 +2665,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Extensión de tríceps sobre cabeza en polea elevada con cuerda",
@@ -2553,6 +2691,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Hip hop",
@@ -2571,6 +2710,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Step up con barra",
@@ -2589,6 +2729,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Desplantes caminando",
@@ -2607,6 +2748,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Hip punch de rodillas en máquina smith",
@@ -2625,6 +2767,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Peso muerto con una pierna con mancuernas",
@@ -2643,6 +2786,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Leg curl de pie con máquina",
@@ -2661,6 +2805,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Costurera",
@@ -2685,6 +2830,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Press de pecho con barra en banco declinado",
@@ -2703,6 +2849,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Cristos en máquina",
@@ -2721,6 +2868,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Press francés con barra z en banco horizontal",
@@ -2739,6 +2887,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Copa a una mano sentado",
@@ -2757,6 +2906,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Elevaciones laterales con polea baja",
@@ -2775,6 +2925,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Encogimientos de pie con máquina smith",
@@ -2793,6 +2944,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Remo con barra",
@@ -2811,6 +2963,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Chin ups",
@@ -2829,6 +2982,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Curl de bíceps agarre cerrado en polea baja con barra z",
@@ -2847,6 +3001,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Curl de bíceps predicador con barra z",
@@ -2865,6 +3020,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Elevaciones para hombro posterior con mancuernas de pie",
@@ -2883,6 +3039,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Puente lateral dinámico",
@@ -2901,6 +3058,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Press de pierna",
@@ -2919,6 +3077,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Leg extension con máquina con una pierna",
@@ -2937,6 +3096,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Hip punch de rodillas en máquina smith",
@@ -2955,6 +3115,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Desplantes estáticos con mancuerna",
@@ -2973,6 +3134,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Leg curl sentado con máquina",
@@ -2991,6 +3153,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Elevaciones de pantorrilla en máquina de pie",
@@ -3009,6 +3172,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Press de pecho con máquina en banco inclinado",
@@ -3027,6 +3191,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Remo con barra",
@@ -3045,6 +3210,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Elevaciones laterales con polea baja",
@@ -3063,6 +3229,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Fondos en banco con piernas recogidas",
@@ -3088,6 +3255,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Hip hop",
@@ -3106,6 +3274,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Press de pierna",
@@ -3124,6 +3293,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Leg extension con máquina con una pierna",
@@ -3142,6 +3312,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Hip punch de rodillas en máquina smith",
@@ -3160,6 +3331,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Desplantes estáticos con mancuerna",
@@ -3178,6 +3350,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Leg curl sentado con máquina",
@@ -3196,6 +3369,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Elevaciones de pantorrilla en máquina de pie",
@@ -3220,6 +3394,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Press de pecho con peso libre en banco inclinado",
@@ -3238,6 +3413,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Vuelos con polea baja",
@@ -3256,6 +3432,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Fondos en paralela",
@@ -3274,6 +3451,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 2,
               "exercises": [
                 {
                   "name": "Extensión de tríceps con polea elevada con cuerda",
@@ -3292,6 +3470,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Remo con barra de pie",
@@ -3310,6 +3489,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 5,
               "exercises": [
                 {
                   "name": "Encogimientos en banco inclinado con mancuernas",
@@ -3328,6 +3508,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Lat pull down en máquina",
@@ -3346,6 +3527,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Remo en polea agarre neutro",
@@ -3364,6 +3546,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Curl de bíceps martillo sentado con mancuernas",
@@ -3382,6 +3565,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Curl de bíceps predicador con barra z",
@@ -3400,6 +3584,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Elevaciones laterales con polea baja",
@@ -3418,6 +3603,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 5,
               "exercises": [
                 {
                   "name": "Abdominales en L en banco",
@@ -3436,6 +3622,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Sentadilla en máquina smith",
@@ -3454,6 +3641,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Desplantes caminando con barra",
@@ -3472,6 +3660,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Abducción de cadera sentado en máquina",
@@ -3490,6 +3679,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Peso muerto convencional con barra",
@@ -3508,6 +3698,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Leg curl acostado con máquina",
@@ -3526,6 +3717,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Puntas en prensa",
@@ -3544,6 +3736,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Press de pecho con barra en banco horizontal",
@@ -3562,6 +3755,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Lat pull down con barra h",
@@ -3580,6 +3774,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Press de hombro con mancuernas de pie",
@@ -3598,6 +3793,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Fondos en banco con piernas rectas",
@@ -3623,6 +3819,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Sit up",
@@ -3641,6 +3838,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Sentadilla en máquina smith",
@@ -3659,6 +3857,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Desplantes caminando con barra",
@@ -3677,6 +3876,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Abducción de cadera sentado en máquina",
@@ -3695,6 +3895,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 3,
               "exercises": [
                 {
                   "name": "Peso muerto convencional con barra",
@@ -3713,6 +3914,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Leg curl acostado con máquina",
@@ -3731,6 +3933,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 4,
               "exercises": [
                 {
                   "name": "Puntas en prensa",
@@ -3755,6 +3958,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Press de pecho con mancuernas en banco inclinado",
@@ -3773,6 +3977,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Vuelos con mancuernas en banco inclinado",
@@ -3791,6 +3996,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Copa con dos manos sentado",
@@ -3809,6 +4015,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Patada de tríceps con mancuernas con ambas manos",
@@ -3827,6 +4034,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Elevaciones para hombro posterior con mancuernas de pie",
@@ -3845,6 +4053,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Encogimientos en banco inclinado con mancuernas",
@@ -3863,6 +4072,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Remo cerrado en banco inclinado con mancuernas",
@@ -3881,6 +4091,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Remo sentado en polea agarre cerrado a una mano",
@@ -3899,6 +4110,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Curl de bíceps en polea baja a una mano",
@@ -3917,6 +4129,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Curl de bíceps sentado con mancuernas",
@@ -3935,6 +4148,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Elevaciones laterales a una mano con polea baja",
@@ -3953,6 +4167,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Puente lateral",
@@ -3970,6 +4185,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Hack",
@@ -3988,6 +4204,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Sentadilla sissy con banco",
@@ -4006,6 +4223,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Hyper",
@@ -4024,6 +4242,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Empuje de cadera con piernas en banco",
@@ -4042,6 +4261,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Peso muerto con piernas rígidas en máquina smith",
@@ -4060,6 +4280,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Costurera",
@@ -4078,6 +4299,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Vuelos en banco horizontal con mancuernas",
@@ -4096,6 +4318,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Remo sentado en polea con barra h",
@@ -4114,6 +4337,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Press de hombro con mancuernas sentado",
@@ -4132,6 +4356,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Fondos en banco con piernas rectas",
@@ -4157,6 +4382,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Puente lateral dinámico",
@@ -4175,6 +4401,7 @@
             {
               "name": "Ciclo 1",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Hack",
@@ -4193,6 +4420,7 @@
             {
               "name": "Ciclo 2",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Sentadilla sissy con banco",
@@ -4211,6 +4439,7 @@
             {
               "name": "Ciclo 3",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Hyper",
@@ -4229,6 +4458,7 @@
             {
               "name": "Ciclo 4",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Empuje de cadera con piernas en banco",
@@ -4247,6 +4477,7 @@
             {
               "name": "Ciclo 5",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Peso muerto con piernas rígidas en máquina smith",
@@ -4265,6 +4496,7 @@
             {
               "name": "Ciclo 6",
               "type": "cycle",
+              "reps": 1,
               "exercises": [
                 {
                   "name": "Costurera",

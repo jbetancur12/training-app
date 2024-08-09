@@ -139,6 +139,7 @@ const handleRoutineChange = (routine) => {
                             <li key={exerciseIndex} className="mb-2">
                               <p><strong>Exercise:</strong> {exercise.name}</p>
                               <p><strong>Video:</strong> <a href={exercise.video_tutorial} target="_blank" rel="noopener noreferrer" className="text-blue-500 underline">Watch Video</a></p>
+                              <p><strong>Series:</strong> {section.reps}</p>
                               <p><strong>Repetitions:</strong> {exercise.repetitions}</p>
                               <p><strong>Reserve Reps:</strong> {exercise.reserve_reps}</p>
                               <p><strong>Rest:</strong> {exercise.rest} seconds</p>
